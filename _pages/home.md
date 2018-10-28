@@ -41,54 +41,54 @@ Recently, I am focusing on Information Extraction (IE) from unstructured text. S
 ---
 
 ### <span id="projects">Projects</span>
-Key Technologies of Person Profiling and Positioning Analysis for Large-scale and Multi-source Data
-* Jan 2018 - present, A research program of "Natural Science Foundation of China"
-* Duties: Researching Theories about Entity linking by combining entity mention and knowledge; Joint extraction of multiple properties and relations about person.
+* **Key Technologies of Person Profiling and Positioning Analysis for Large-scale and Multi-source Data**
+  * Jan 2018 - present, A research program of "Natural Science Foundation of China"
+  * Duties: Researching Theories about Entity linking by combining entity mention and knowledge; Joint extraction of multiple properties and relations about person.
 
-A Toolkit of Natural Language Processing
-* Oct 2018 - present, A cooperative research program with a enterprise
-* Duties: Developing a toolkit for entity recognition, entity linking, relatioin extraction, event extraction and representation learning of knowledge base.
+* **A Toolkit of Natural Language Processing**
+  * Oct 2018 - present, A cooperative research program with a enterprise
+  * Duties: Developing a toolkit for entity recognition, entity linking, relatioin extraction, event extraction and representation learning of knowledge base.
 
-Technologies of Entity Relation Extraction Based on Deep Learning and Reasoning
-* Nov 2017 - Apr 2018, A cooperative research program with a enterprise
-* Duties: Researching Theories about relation extraction based on deep reinforcement learning and rules.
+* **Technologies of Entity Relation Extraction Based on Deep Learning and Reasoning**
+  * Nov 2017 - Apr 2018, A cooperative research program with a enterprise
+  * Duties: Researching Theories about relation extraction based on deep reinforcement learning and rules.
 
-Coordination Mechanism and Coupling Theory of Multi Mode Public Transport Network
-* Sep 2015 -Sep 2016, A research program of "National Key Basic Research Program of China"
-* Duties: Developing a software for graphic analysis of urban traffic network.
+* **Coordination Mechanism and Coupling Theory of Multi Mode Public Transport Network**
+  * Sep 2015 -Sep 2016, A research program of "National Key Basic Research Program of China"
+  * Duties: Developing a software for graphic analysis of urban traffic network.
 
-Theories and Key Technologies for Improving the Efficiency of Modern Urban Multimodal Public Transportation System
-* Sep 2014 - Sep 2015, A research program of "Natural Science Foundation of China"
-* Duties: Researching and implementing the traffic assignment algorithm.
+* **Theories and Key Technologies for Improving the Efficiency of Modern Urban Multimodal Public Transportation System**
+  * Sep 2014 - Sep 2015, A research program of "Natural Science Foundation of China"
+  * Duties: Researching and implementing the traffic assignment algorithm.
 
 ---
 ### <span id="publications">Publications</span>
 #### **Papers**
-Adversarial Discriminative Denoising for Distant Supervision Relation Extraction
-* Bing Liu, Huan Gao, Guilin Qi, Shangfu Duan, Tianxing Wu, Meng Wang
-* Under review by AAAI 2019.
+* **Adversarial Discriminative Denoising for Distant Supervision Relation Extraction**
+  * Bing Liu, Huan Gao, Guilin Qi, Shangfu Duan, Tianxing Wu, Meng Wang
+  * Under review by AAAI 2019.
 
 #### **Patents**
-Relation Extraction based on Reinforcement Learning and Reasoning
-* Bing Liu, Guilin Qi
-* 2018, China Patent
+* **Relation Extraction based on Reinforcement Learning and Reasoning**
+  * Bing Liu, Guilin Qi
+  * 2018, China Patent
 
-Adversarial Learning based Denoising Method for Distant Supervision Relation Extraction
-* Bing Liu, Guilin Qi
-* 2018, China Patent
+* **Adversarial Learning based Denoising Method for Distant Supervision Relation Extraction**
+  * Bing Liu, Guilin Qi
+  * 2018, China Patent
 
 #### **Software**
-Main Frame for Integrated Analysis of Comprehensive Transportation System (V1.0)
-* Bing Liu, Wei Wang
-* 2016, Chinese register No. 2016SR246196
+* **Main Frame for Integrated Analysis of Comprehensive Transportation System (V1.0)**
+  * Bing Liu, Wei Wang
+  * 2016, Chinese register No. 2016SR246196
 
-Graphic Analysis System for Comprehensive Transportation System (V1.0)
-* Bing Liu, Wei Wang
-* 2016, Chinese register No. 2016SR245507
+* **Graphic Analysis System for Comprehensive Transportation System (V1.0)**
+  * Bing Liu, Wei Wang
+  * 2016, Chinese register No. 2016SR245507
 
-Graphic Analysis System for Highway Transportation System (V1.0)
-* Bing Liu, Wei Wang
-* 2016, Chinese register No. 2016SR246046
+* **Graphic Analysis System for Highway Transportation System (V1.0)**
+  * Bing Liu, Wei Wang
+  * 2016, Chinese register No. 2016SR246046
 
 ---
 ### <span id="awards">Awards</span>
