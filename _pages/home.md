@@ -65,9 +65,8 @@ Recently, I am focusing on Information Extraction (IE) from unstructured text. S
 ### <span id="publications">Publications</span>
 #### **Papers**
 * **Adversarial Discriminative Denoising for Distant Supervision Relation Extraction**
-([pdf](/assets/pdf/aaai2019_submission.pdf))
   * Bing Liu, Huan Gao, Guilin Qi, Shangfu Duan, Tianxing Wu, Meng Wang
-  * Under review by AAAI 2019.
+  * preprint, ([pdf](/assets/pdf/aaai2019_submission.pdf))
 
 #### **Patents**
 * **Relation Extraction based on Reinforcement Learning and Reasoning**
