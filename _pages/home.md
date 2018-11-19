@@ -16,7 +16,8 @@ social: false
 I am a second-year Ph.D. student in Computer Science at [Southeast University](http://www.seu.edu.cn/), advised by Prof. [Guilin Qi](http://cse.seu.edu.cn/PersonalPage/qgl/index.htm).
 My research interests mainly lie in Natural Language Processing and Machine Learning.
 
-Recently, I am focusing on Information Extraction (IE) from unstructured text. Specifically, I am interested in designing IE algorithms that do not suffer from human annotation dependence. For more details, please see my [research statement](/assets/pdf/research_statement.pdf).
+Recently, I am focusing on Information Extraction (IE) from unstructured text. Specifically, I am interested in designing IE algorithms that do not suffer from human annotation dependence. 
+<!-- For more details, please see my [research statement](/assets/pdf/research_statement.pdf). -->
 
 <br>
 *Email: liubing_cs@seu.edu.cn* <br>
@@ -66,7 +67,7 @@ Recently, I am focusing on Information Extraction (IE) from unstructured text. S
 #### **Papers**
 * **Adversarial Discriminative Denoising for Distant Supervision Relation Extraction**
   * Bing Liu, Huan Gao, Guilin Qi, Shangfu Duan, Tianxing Wu, Meng Wang
-  * preprint, ([pdf](/assets/pdf/aaai2019_submission.pdf))
+  * preprint
 
 #### **Patents**
 * **Relation Extraction based on Reinforcement Learning and Reasoning**
