@@ -65,9 +65,13 @@ Recently, I am focusing on Information Extraction (IE) from unstructured text. S
 ---
 ### <span id="publications">Publications</span>
 #### **Papers**
+* **Incorporating Human Knowledge in Neural Relation Extraction with Reinforcement Learning**
+  * Bing Liu, Guilin Qi, Lu Pan, Shangfu Duan, Tianxing Wu
+  * Under review by IJCNN 2019
+
 * **Adversarial Discriminative Denoising for Distant Supervision Relation Extraction**
   * Bing Liu, Huan Gao, Guilin Qi, Shangfu Duan, Tianxing Wu, Meng Wang
-  * preprint
+  * Accepted by DASFAA 2019 as short paper.
 
 #### **Patents**
 * **Relation Extraction based on Reinforcement Learning and Reasoning**
